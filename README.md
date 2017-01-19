@@ -3,6 +3,8 @@
 Usage : python python detectCycle.py < input.txt
 
 More sample inputs :
+* Input 1
+
 > 1 2 1
 
 > 2 3 1
@@ -11,6 +13,8 @@ More sample inputs :
 
 
 
+* Input 2
+
 > 1 2 1
 
 > 2 3 1
@@ -18,6 +22,8 @@ More sample inputs :
 > 3 2 1
 
 
+
+* Input 3
 
 > 1 2 1
 
@@ -28,6 +34,8 @@ More sample inputs :
 > 4 5 1
 
 
+
+* Input 4
 
 > 1 2 1
 
